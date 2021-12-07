@@ -323,7 +323,7 @@ a:focus {
     width: 100%;
     min-height: 400px;
     background: #ffffff;
-    margin-bottom: 45px;
+    margin-bottom: 1px;
 }
 
 .carousel .container-fluid {

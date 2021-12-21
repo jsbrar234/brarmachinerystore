@@ -1062,13 +1062,14 @@ a:focus {
     width: 100%;
     padding: 35px 30px 30px 30px;
     text-align: center;
-    background: #008037;
+    background: #FF9A00;
     border-radius: 0 0 5px 5px;
     transition: .5s;
 }
 
 .team .team-item:hover .team-text {
-    background: #FF9A00;
+    background: #008037;
+    
 }
 .team .team-text h2 {
     color: #ffffff;
@@ -1139,9 +1140,7 @@ a:focus {
 }
 
 .testimonial .testimonial-item img {
-    width: 80px;
-    height: 80px;
-    border-radius: 80px;
+    width: 250px;
     transform: scale(.8);
     transition: 2s;
 }
@@ -2062,3 +2061,8 @@ a:focus {
 .footer .copyright p a:hover {
     color: #ffffff;
 }
+.btn-read{
+    background-color: #E81C2E;
+    border: none;
+}
+
